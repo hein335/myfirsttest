@@ -96,11 +96,11 @@
              android:src="@drawable/ic_near_me_black_24dp"
              />
          <TextView
-             android:layout_marginHorizontal="40sp"
+             android:layout_marginHorizontal="30sp"
              android:layout_below="@+id/call3"
              android:layout_width="120sp"
              android:layout_height="30sp"
-             android:text="ROUTE"
+             android:text="Rout"
              android:textStyle="bold"
              />
       </RelativeLayout>
@@ -117,7 +117,8 @@
              android:src="@drawable/ic_share"
              />
          <TextView
-             android:layout_marginHorizontal="40sp"
+             android:layout_marginHorizontal="20sp"
+
              android:layout_below="@+id/call5"
              android:layout_width="120sp"
              android:layout_height="30sp"
