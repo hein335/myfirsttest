@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    //use name
+    <string name="One">Button</string>
+    <string name="text">Tooling: In addition to great IDE support in general, Kotlin oFers framework-speciDc tooling
+(for example, for Spring) in the plugin for IntelliJ IDEA Ultimate.
+Learning Curve: For a Java developer, getting started with Kotlin is very easy. The automated
+Java to Kotlin converter included in the Kotlin plugin helps with the Drst steps. Kotlin Koans
+oFer a guide through the key features of the language with a series of interactive exercises.</string>
+</resources>
